@@ -1,0 +1,22 @@
+{
+  "name": "primenumbers",
+  "version": "1.0.0",
+  "description": "a function to calculate array",
+  "main": "src/primeArray",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/tests.js"
+  },
+  "keywords": [
+    "TDD",
+    "JAVASCRIPT"
+  ],
+  "author": "Ahmed Oluwafemi",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
